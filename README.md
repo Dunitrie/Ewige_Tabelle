@@ -6,4 +6,4 @@ Files are already slightly cleaned from Download, i.e. removed two sheets, remov
 Dependencies up til now:<br>
 pandas <br>
 numpy <br>
-
+jupyterlab-python (if you want to use. Otherwise copy each cell individually)
